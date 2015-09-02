@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'adminEmail' => 'john@jqlmdg.com',
+    // Change the email address to your email address
+    'adminEmail' => 'admin@admin.com',
 ];
